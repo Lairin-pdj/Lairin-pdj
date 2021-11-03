@@ -1,8 +1,7 @@
 <div align="center">
   <a href="https://github.com/Lairin-pdj">
-		<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Dong-jun Park&fontSize=50&fontAlignY=30&animation=twinkling"/>
+		<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Dong-jun Park&fontSize=50&fontAlignY=30&animation=twinkling"/>
   <a>
-  <br>
   
   <h3 align="center">🛠 Tech Stack 🛠</h3>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
