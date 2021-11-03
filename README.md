@@ -23,7 +23,7 @@
 
   <h3 align="center">:alien: Introduce :alien:</h3>
 	<a href="https://lairin-pdj.github.io/githubdemo/">
-		<img src="https://img.shields.io/badge/Hello!&style=forthebage"/></a>&nbsp
+		<img src="https://img.shields.io/badge/hellow-Hello!&style=forthebage"/></a>&nbsp
   <a>	
 
 </div>
