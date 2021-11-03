@@ -2,7 +2,7 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
 
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdj9696"/></a>&nbsp 
-  <!--![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pdj9696) -->
+  ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pdj9696)
 
   https://lairin-pdj.github.io/githubdemo/
 
-</p>
+</div>
