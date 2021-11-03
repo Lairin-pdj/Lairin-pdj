@@ -12,10 +12,13 @@
   <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <br>
+  <br>
   
-  ![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pdj9696)
+  <h3 align="center">:computer: Tech Stack :computer:</h3>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdj9696"/>
   <br>
 
+  <h3 align="center">🛠 Tech Stack 🛠</h3>
   https://lairin-pdj.github.io/githubdemo/
 
 </div>
