@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=Dongjun-Park&fontSize=50&animation=twinkling"/>
-  <br>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Dongjun-Park&fontSize=50&animation=twinkling"/>
   <br>
   
   <h3 align="center">🛠 Tech Stack 🛠</h3>
@@ -12,11 +11,9 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <br>
-  <br>
   
   <h3 align="center">:computer: BOJ CodeTest :computer:</h3>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdj9696"/>
-  <br>
   <br>
 
   <h3 align="center">:alien: Introduce :alien:</h3>
