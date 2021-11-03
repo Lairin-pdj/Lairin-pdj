@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Lairin-pdj">
-		<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=80&section=header&text=Dongjun-Park&fontSize=50&animation=twinkling"/>
+		<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=Dongjun-Park&fontSize=50&animation=twinkling"/>
   <a>
   <br>
   
