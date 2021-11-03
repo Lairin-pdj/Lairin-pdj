@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Lairin-pdj">
-		<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=Dongjun-Park&fontSize=50&animation=twinkling"/>
+		<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=90&section=header&text=Dongjun-Park&fontSize=50&animation=twinkling"/>
   <a>
   <br>
   
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <br>
+	<img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <br>
