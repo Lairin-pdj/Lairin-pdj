@@ -10,17 +10,16 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HyperledgerFabric-DB3552?style=flat-square&logo=Hulu&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <br>
   <br>
   
-  <h3 align="center">:computer: Tech Stack :computer:</h3>
+  <h3 align="center">:computer: BOJ CodeTest :computer:</h3>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pdj9696"/>
   <br>
   <br>
 
-  <h3 align="center">🛠 Tech Stack 🛠</h3>
+  <h3 align="center">:alien: Introduce :alien:</h3>
   https://lairin-pdj.github.io/githubdemo/
 
 </div>
