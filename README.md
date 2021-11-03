@@ -24,7 +24,7 @@
   <br>
 
   <h3 align="center">:alien: Introduce :alien:</h3>
-	<a href="https://lairin-pdj.github.io/githubdemo/">
+	<a href="https://lairin-pdj.github.io/static_introduce/">
 		<img src="https://img.shields.io/badge/-introduce-green?style=for-the-badge"/></a>&nbsp
   <a>	
 
