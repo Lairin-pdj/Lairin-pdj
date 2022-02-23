@@ -25,9 +25,12 @@
   <a>
   <br>
 
-  <h3 align="center">:alien: Introduce :alien:</h3>
+  <h3 align="center">:alien: Info :alien:</h3>
 	<a href="https://lairin-pdj.github.io/introduction/">
 		<img src="https://img.shields.io/badge/-introduce-green?style=for-the-badge"/></a>&nbsp
+  <a>	
+	<a href="https://programmers.co.kr/pr/pdj9696_7299">
+		<img src="https://img.shields.io/badge/-resume-blue?style=for-the-badge"/></a>&nbsp
   <a>	
 
 </div>
