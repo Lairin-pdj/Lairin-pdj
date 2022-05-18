@@ -17,6 +17,9 @@
   <br>
 	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp 
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>&nbsp 
+	<img src="https://img.shields.io/badge/Spring boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>&nbsp 
   <br>
   
   <h3 align="center">:computer: BOJ CodeTest :computer:</h3>
